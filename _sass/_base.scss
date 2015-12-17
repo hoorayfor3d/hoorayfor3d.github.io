@@ -128,9 +128,9 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+    border: 0px;
+    border-radius: 0px;
+    background-color: #353535;
 }
 
 code {
@@ -139,13 +139,33 @@ code {
 
 pre {
     padding: 8px 12px;
-    overflow-x: scroll;
+    overflow-x: auto;
 
     > code {
         border: 0;
         padding-right: 0;
         padding-left: 0;
     }
+}
+
+table.highlighttable {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    overflow-x:auto;
+    display:block;
+}
+
+table.highlighttable td.code {
+padding:1px;
+  width:100%;
+}
+
+table.highlighttable td.linenos {
+padding:0px;
+}
+
+pre code {
+  white-space: pre;
 }
 
 
