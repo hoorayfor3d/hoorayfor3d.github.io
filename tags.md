@@ -3,9 +3,23 @@ layout: page
 title: Tags
 permalink: /tags/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<div class="home">
+	<ul>
+		{% for sitetag in site.tags %}
+			{% assign siteslug = sitetag | first %}
+			{% assign posts = sitetag | last %}
+			
+			{% for data_tag in site.data.tags %}
+        	    {% if data_tag.slug == siteslug %}
+        	        {% assign tag = data_tag %}
+        	    {% endif %}
+        	{% endfor %}	
+			
+			{% if tag %}
+				<li>	
+					<a href="/tag/{{ tag.slug }}/">{{ tag.name }} [ {{ posts | size }} ]</a>
+				</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
