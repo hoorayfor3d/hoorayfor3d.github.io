@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Game developer, technical artist, and animator (well... sometimes). Currently Lead Technical Animator at Xaviant, working on The Culling. I've been working in games for just a little over 10 years now. The majority of this time has been spent as a technical artist / animator. My focus has been on developing animation rigs, rigging tools, animation tools, and animation networks.

@@ -2,6 +2,7 @@
 layout: post
 title:  "Code Test"
 date:   2015-11-19 22:18:36
+comments: true
 categories: jekyll python testing
 tags: [github, github-pages, jekyll]
 ---

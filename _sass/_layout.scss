@@ -8,6 +8,19 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    overflow-x:hidden;
+}
+
+.header-image {
+    width:2880px;
+    height:192px;
+    position:relative;
+}
+
+.header-image img {
+    position:absolute; display:block;
+    top:0;
+    left:0; 
 }
 
 .site-title {
