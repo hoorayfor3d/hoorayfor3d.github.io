@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "It Lives! - (Final_V32-WIP_002)"
+title:  "It Lives!"
 date:   2016-08-25
 comments: true
 categories: jekyll update
