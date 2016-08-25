@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "It Lives! - (Final_V32-WIP_002)"
+date:   2016-08-25
+comments: true
+categories: jekyll update
+tags: [github, github-pages, jekyll, update]
+---
+
+Alright, after far too long I've finally got the site up and running in proper form now. Sure, it's been "live" in some form of disrepair or another for far too long. Primarily, it's served as a sandbox for me to learn more about web development. Furthermore, it's served as a prime example as to why I'm glad I'm not a web developer for a living.
+
+After playing with several different platforms (WordPress, Blogger, rolling my own blog with Google App Engine, etc...) I think I've finally settled on using GitHub Pages and Jekyll. And why's that?
+
+* It's free
+* Static site (It's fast)
+* NO DATABASES! (It's fast)
+* Posts are written in Markdown
+* Did I mention it's free?
+
+There's more than that, but basically, I felt I could finally get the amount of customization I was seeking without the typical theme nightmare that accompanied other blogging software. On the opposite end, learning about Google App Engine was great, but was just way too much for a simple blog. So here we are... write a post in my favorite text editor (Sublime Text), submit the post to my GitHub repo, and DONE. Ok, I may or may not have left out a few steps leading up to all that but it was easy, I promise!
+
+So if it's that easy, I'll definitely keep the site up to date right? Right...? Well, that's the plan anyway. Stay tuned for posts relating to all things tech-art, rigging, coding, game develeopment, and animation!

@@ -2,7 +2,8 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 15px solid $grey-color-dark;
+    background-color: $grey-color-light;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -11,20 +12,9 @@
     overflow-x:hidden;
 }
 
-.header-image {
-    width:2880px;
-    height:192px;
-    position:relative;
-}
-
-.header-image img {
-    position:absolute; display:block;
-    top:0;
-    left:0; 
-}
-
 .site-title {
-    font-size: 26px;
+    font-size: 38px;
+    font-weight: 700;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -106,6 +96,7 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
+    background-color: $grey-color-light;
     padding: $spacing-unit 0;
 }
 
