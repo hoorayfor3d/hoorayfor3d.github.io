@@ -6,3 +6,21 @@
 
 - slug: jekyll
   name: Jekyll
+
+- slug: ue4
+  name: UE4
+
+- slug: cpp
+  name: C++
+
+- slug: update
+  name: Update
+
+- slug: code
+  name: Code
+
+- slug: editor
+  name: Editor
+
+- slug: animation
+  name: Animation
