@@ -6,7 +6,7 @@ permalink: /demoreels/
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@hoorayfor3d" />
 <meta name="twitter:title" content="Demo Reels" />
-<meta name="twitter:description" content="Rigging and tool demo reels" />
+<meta name="twitter:description" content="Some recent examples of my character rigging and tool development work in Maya." />
 <meta name="twitter:image" content="http://www.hoorayfor3d.com/img/Header.png" />
 
 Character Rigging Demo Reel
