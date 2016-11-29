@@ -5,9 +5,9 @@ permalink: /demoreels/
 ---
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@hoorayfor3d" />
-<meta name="twitter:title" content="Small Island Developing States Photo Submission" />
-<meta name="twitter:description" content="View the album on Flickr." />
-<meta name="twitter:image" content="https://farm6.staticflickr.com/5510/14338202952_93595258ff_z.jpg" />
+<meta name="twitter:title" content="Demo Reels" />
+<meta name="twitter:description" content="Rigging and tool demo reels" />
+<meta name="twitter:image" content="http://www.hoorayfor3d.com/img/Header.png" />
 
 Character Rigging Demo Reel
 <video controls>
