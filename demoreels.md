@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Demo Reels
+description: Some recent examples of my character rigging and tool development work in Maya
 permalink: /demoreels/
 ---
 <meta name="twitter:card" content="summary" />
