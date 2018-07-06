@@ -24,3 +24,9 @@
 
 - slug: animation
   name: Animation
+  
+- slug: python
+  name: Python
+  
+- slug: maya
+  name: Maya
