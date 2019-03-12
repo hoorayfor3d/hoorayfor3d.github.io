@@ -3,7 +3,7 @@ title: "[HoorayFor3D]"
 email: mike@hoorayfor3d.com
 description: Personal site of technical animator Michael Howard. Blog about all things tech-art, rigging, coding, game development, and animation.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hoorayfor3d.com" # the base hostname & protocol for your site
+url: "https://hoorayfor3d.com" # the base hostname & protocol for your site
 twitter_username: hoorayfor3d
 github_username:  hoorayfor3d
 
