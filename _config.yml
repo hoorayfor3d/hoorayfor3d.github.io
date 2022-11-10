@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://hoorayfor3d.com" # the base hostname & protocol for your site
 twitter_username: hoorayfor3d
 github_username:  hoorayfor3d
+mastodon_username: hoorayfor3d
 
 # Build settings
 markdown: kramdown
