@@ -12,3 +12,4 @@ mastodon_username: hoorayfor3d
 markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:title/
+include: [".well-known"]
